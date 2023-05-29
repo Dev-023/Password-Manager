@@ -1,4 +1,4 @@
-# Password-Manager
+# Password Manager
 Password manager which can encrypt and store all your passwords
 
 Passwords are stored in encrypted format via CryptoGraphy module
@@ -9,9 +9,9 @@ Imported modules -
   4. tkinter
 
 # Versions
-1.1.1 - NA
+[1.1.1](#1.1.1)
 
-2.1.1 -
+[2.1.1](https://github.com/Dragon196/Password-Manager/blob/27462c11ff7854dbe7ca0064f0d4de51a305da51/Password%20Manager.exe)
 
 # Terms and Conditions
 This project is created for experience and educational purpose and hence does not assure 100% secure data storage. It is also recommended to have the encryption key as hard copy or on a flash drive which can only be plugged in when needed. User data at own risk.
