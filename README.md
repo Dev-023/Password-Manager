@@ -11,7 +11,7 @@ Imported modules -
 # Versions
 [1.1.1](#1.1.1)
 
-[2.1.1](https://github.com/Dragon196/Password-Manager/tree/2.1)
+[2.1.1](https://github.com/Dev-023/Password-Manager/tree/2.1)
 
 # Terms and Conditions
 This project is created for experience and educational purpose and hence does not assure 100% secure data storage. It is also recommended to have the encryption key as hard copy or on a flash drive which can only be plugged in when needed. User data at own risk.
