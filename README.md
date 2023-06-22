@@ -13,7 +13,6 @@ Imported modules -
 
 [2.1.1](https://github.com/Dev-023/Password-Manager/tree/2.1)
 
-# Terms and Conditions
-This project is created for experience and educational purpose and hence does not assure 100% secure data storage. It is also recommended to have the encryption key as hard copy or on a flash drive which can only be plugged in when needed. User data at own risk.
 
-This is an open source project, republishing the code in anyway requires my permission, modification is permitted.
+# Other Shit
+I'm just making repos for fun and passing time, so if you wanna use my code, its your risk.
