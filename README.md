@@ -9,7 +9,7 @@ Imported modules -
   4. tkinter
 
 # Versions
-[1.1.1](#1.1.1)
+[1.1.1] - Removed because it was crappy
 
 [2.1.1](https://github.com/Dev-023/Password-Manager/tree/2.1)
 
