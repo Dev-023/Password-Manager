@@ -2,7 +2,7 @@
 Password manager which can encrypt and store all your passwords
 
 Passwords are stored in encrypted format via cryptography module
-Imported modules -
+\nImported modules -
   1. OS
   2. json
   3. cryptography.fernet
