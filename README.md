@@ -14,5 +14,5 @@ Imported modules -
 [2.1.1](https://github.com/Dev-023/Password-Manager/tree/2.1)
 
 
-# Other Shit
-I'm just making repos for fun and passing time, so if you wanna use my code, its your risk.
+# Other Stuff
+Warning, coded by a rookie
