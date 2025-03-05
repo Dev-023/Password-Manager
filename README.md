@@ -1,7 +1,7 @@
 # Password Manager
 Password manager which can encrypt and store all your passwords
 
-Passwords are stored in encrypted format via CryptoGraphy module
+Passwords are stored in encrypted format via cryptography module
 Imported modules -
   1. OS
   2. json
